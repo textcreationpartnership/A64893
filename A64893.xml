@@ -742,14 +742,17 @@ in them; Together with <hi>Wing<g ref="char:EOLhyphen"/>field-Man<gap reason="il
 which had long beene
 Besieged by <hi>Darby</hi> forces, but not ob<g ref="char:EOLhyphen"/>tained
 but by this Noble Generals assi<g ref="char:EOLhyphen"/>stance.</p>
-            <figure>
-               <p>Basil Fielding, Earle of Denbigh,
+            <p>
+               <pb n="20" facs="tcp:44405:13"/>
+               <figure>
+                  <p>Basil Fielding, Earle of Denbigh,
 Lord of Now<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>ham Paddock<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>,</p>
-            </figure>
+                        <desc>•</desc>
+                     </gap>ham Paddock<gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</p>
+               </figure>
+            </p>
             <p>IN the yere 1644, about the Moneth of
 <hi>May,</hi> the Loyall heart and valiant Spi<g ref="char:EOLhyphen"/>rit
 of this Noble Lord <hi>Fielding</hi> Earle of
@@ -915,7 +918,10 @@ the Parliaments Enemies, till hee return<g ref="char:EOLhyphen"/>ed
 to the Parliament upon other State em<g ref="char:EOLhyphen"/>ployments.</p>
          </div>
          <div n="Earl of Leven" type="military_command">
-            <figure/>
+            <p>
+               <pb n="27" facs="tcp:44405:16"/>
+               <figure/>
+            </p>
             <p>IN <hi>January 1643,</hi> this most noble and
 renowned Lord Generall, <hi>David Lesley</hi>
 Earle of <hi>Leven</hi> in <hi>Scotland<g ref="char:punc">▪</g>
@@ -1230,7 +1236,10 @@ Muskets, 40 barrels of powder, 3 tunne of
 great and small bullets, 800 Pikes, besides
 Swords, Bandiliers, &amp;c. and abundance of
 other rich prize.</p>
-            <figure/>
+            <p>
+               <pb n="40" facs="tcp:44405:23"/>
+               <figure/>
+            </p>
             <p>THis most noble and Victoriou<gap reason="illegible" resp="#TECH" extent="1 letter">
                   <desc>•</desc>
                </gap> Com<g ref="char:EOLhyphen"/>mander
@@ -1524,20 +1533,23 @@ Kingdome, where they all three purchased
 and renown. And he was before the
 Warre began chosen a Member of the ho<g ref="char:EOLhyphen"/>nourable
 house of Commons in Parlia<g ref="char:EOLhyphen"/>ment.</p>
-            <figure>
-               <p>
-                  <gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>he Faithfull &amp; Renouned souldier Phillip
+            <p>
+               <pb n="50" facs="tcp:44405:28"/>
+               <figure>
+                  <p>
+                     <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Faithfull &amp; Renouned souldier Phillip
 <gap reason="illegible" resp="#TECH" extent="2 letters">
-                     <desc>••</desc>
-                  </gap>ippon &amp;c: Appoynted Cheife Marshall of
+                        <desc>••</desc>
+                     </gap>ippon &amp;c: Appoynted Cheife Marshall of
 <gap reason="illegible" resp="#TECH" extent="1 word">
-                     <desc>〈◊〉</desc>
-                  </gap> Forcas mysed for Ireland by the Parli<hi rend="sup">mt</hi>
-                  <g ref="char:punc">▪</g>
-               </p>
-            </figure>
+                        <desc>〈◊〉</desc>
+                     </gap> Forcas mysed for Ireland by the Parli<hi rend="sup">mt</hi>
+                     <g ref="char:punc">▪</g>
+                  </p>
+               </figure>
+            </p>
          </div>
          <div n="Skippon" type="military_command">
             <pb n="51" facs="tcp:44405:28"/>
@@ -1805,12 +1817,15 @@ and to Conquer, untill he also <gap reason="illegible" resp="#TECH" extent="1 sp
 Peace in that poore Kingdome. Amen
 and <hi>Amen.</hi>
             </p>
-            <figure>
-               <p>Collonell ma<gap reason="illegible" resp="#TECH" extent="2 letters">
-                     <desc>••</desc>
-                  </gap>is Appoynted Leivtenant Generall<g ref="char:punc">▪</g>
+            <p>
+               <pb n="60" facs="tcp:44405:33"/>
+               <figure>
+                  <p>Collonell ma<gap reason="illegible" resp="#TECH" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is Appoynted Leivtenant Generall<g ref="char:punc">▪</g>
 of the Horse raysed for Ireland by the Parliment.</p>
-            </figure>
+               </figure>
+            </p>
          </div>
          <div n="Massey" type="military_command">
             <pb n="61" facs="tcp:44405:33"/>
@@ -3353,7 +3368,10 @@ upon his Majesties person at <hi>Holme<gap reason="illegible" resp="#TECH" exten
                   </gap>y</hi> in
 <hi>Northamptonshire.</hi>
             </p>
-            <figure/>
+            <p>
+               <pb n="104" facs="tcp:44405:55"/>
+               <figure/>
+            </p>
          </div>
          <div n="Mytton" type="military_command">
             <head>Major Generall Mitton.</head>
